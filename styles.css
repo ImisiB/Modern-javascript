@@ -9,3 +9,8 @@ div{
     margin: 20px;
     padding: 20px;
 }
+body{
+    background-image: url("img/flash-img/Flash\(prepare\ to\ run!\).jpg");
+    background-attachment: fixed;
+    background-size: -20px;
+}
