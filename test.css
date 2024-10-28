@@ -1,0 +1,35 @@
+body.test{
+    margin: 0;
+    padding: 0;
+    background-image: url(img/Batman\(in\ dark\ mode\).jpg)
+}
+body.form{
+    /* margin: 0;
+    padding: 0; */
+    background-image: url(img/Batman\ vs\ joker.jpg)
+    
+}
+p.p-tag{
+    color: red;
+}
+h2.h2{
+    color: thistle;
+}
+p.p1{
+    color: red;
+}
+p.pp{
+    color: red;
+}
+ul{
+    color: violet;
+}
+footer.footer{
+    color: blue;
+    /* margin: 20px; */
+    background-color: red;
+    padding:20px 30px; 
+}
+p{
+    color: red;
+}

@@ -1,16 +1,75 @@
-span{
+/* span{
     display: inline-block;
     margin: 20px;
-    padding: 20px;
-}
-div{
+    padding: 20px; */
+/* } */
+/* div{ */
     /* display: inline; */
-    border: 2px solid crimson;
+    /* border: 2px solid crimson;
     margin: 20px;
     padding: 20px;
 }
 body{
     background-image: url("img/flash-img/Flash\(prepare\ to\ run!\).jpg");
-    background-attachment: fixed;
-    background-size: -20px;
+    background-attachment: fixed; */
+    /* background-size: -20px;
+} */
+
+a{
+    color: white;
+}
+body{
+    background-color: purple;
+}
+/*p.bruh{
+    color: red;
+}
+p.error{ 
+    color: blue;
+}
+p.success{
+    color: green;
+}
+p.success.feedback{
+    border: 1px dashed lightseagreen;
+    color: yellow;
+}
+div#content{
+    background-color: #100101;
+    padding: 20px;
+} */
+/* div .error{
+    color: purple
+} */
+/* a[href*="thenetninja.co.uk"]{
+    background-color: #3dd13d;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: yellowtail;
+    letter-spacing: 2px;
+}
+a[href$=".com"]{
+    background-color: #3dd13d;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: yellowtail;
+    letter-spacing: 2px;
+    border: solid 2px blue;
+} */
+
+div{
+    color: lightcoral;
+    border: 1px solid red;
+    margin: 40px;
+    font-weight: bold;
+}
+div p{
+    border: inherit;
+    margin: inherit;
+    color: crimson;
+}
+p{
+    color: orange;
 }
