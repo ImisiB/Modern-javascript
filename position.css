@@ -1,0 +1,33 @@
+.relative{
+    /* position: relative; */
+    background-color: violet;
+}
+
+.absolute{
+    position:absolute;
+    background-color: red;
+    height: 90px;
+    width: 90px;
+    top: 0;
+    right:0;
+}
+
+.fixed{
+    position: fixed;
+    background-color: green;
+    height: 90px;                                                            
+    width: 90px;
+    top: 0;
+    left: 0;
+}
+
+
+
+.sticky{
+    position: sticky;
+    background-color: rgb(232, 138, 44);
+    height: 90px;                                                            
+    width: 90px;
+    top: 0;
+    left: 50%;
+}

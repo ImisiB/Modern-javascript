@@ -1,27 +1,15 @@
 body{
     background-color: blueviolet;
 }
-.a1{
-    color: red;
+.banner{
+    position: relative;
 }
 .banner{
-    color: red;
+    max-width: 100%;
 }
-.welcome{
-    color: blue;
-}
-.main-nav{
-    color: red;
-}
-.image{
-    color: red;
-}
-.join{
-    color: red;
-}
-.copyright{
-    color: red;
-}
-.welcome:hover{
-    color: red;
+.banner .welcome{
+    background-color: #feb61f;
+    position: absolute ;
+    left: 0px;
+    top: 30%;
 }
